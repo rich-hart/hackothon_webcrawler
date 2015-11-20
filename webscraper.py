@@ -11,6 +11,6 @@ tree = html.fromstring(page.content)
 
 ############
 
-from scrapy.linkextractors import LinkExtractor
+#from scrapy.linkextractors import LinkExtractor
 
-links=LinkExtractor(allow_domains='http://houston.novusagenda.com/agendapublic')
+#links=LinkExtractor(allow_domains='http://houston.novusagenda.com/agendapublic')
