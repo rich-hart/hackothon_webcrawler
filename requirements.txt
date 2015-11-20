@@ -1,0 +1,6 @@
+--upgrade pip
+ipdb
+lxml
+requests
+scrapy
+
